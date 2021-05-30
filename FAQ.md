@@ -36,6 +36,7 @@
   **A:** This challenge is individual, so when you join you start at day 1. Whenever you’ll be posting an update on Twitter or elsewhere, make sure to mention which day you are on and use the hashtag so that people can find and support you!
 
 ## Contents
+* [README](README.md)
 * [Rules](rules.md)
 * [Log - click here to see my progress](r1-log.md)
 * [FAQ](FAQ.md)

@@ -13,6 +13,7 @@ The log of my #100DaysOfCode challenge. Started on [30th May 2021]
 **Link to work:**
 
 ## Contents
+* [README](README.md)
 * [Rules](rules.md)
 * [Log - click here to see my progress](r1-log.md)
 * [FAQ](FAQ.md)

@@ -21,6 +21,7 @@
 5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
 
 ## Contents
+* [README](README.md)
 * [Rules](rules.md)
 * [Log - click here to see my progress](r1-log.md)
 * [FAQ](FAQ.md)

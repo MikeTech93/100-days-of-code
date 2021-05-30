@@ -36,6 +36,7 @@
 3. "Mastering JavaScript" by Ved Antani
 
 ## Contents
+* [README](README.md)
 * [Rules](rules.md)
 * [Log - click here to see my progress](r1-log.md)
 * [FAQ](FAQ.md)
