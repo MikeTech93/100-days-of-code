@@ -7,10 +7,17 @@ The log of my #100DaysOfCode challenge. Started on [30th May 2021]
 ### R1D1 - 30th May 2021, Sunday
 
 **Today's Progress:**
+Completed day 1 of 100-days-of-code Python Pro Bootcamp on Udemy and practiced some basic coding features such as strings and variables.
 
 **Thoughts:**
+I understand that following tutorials is not 100% following the #100DaysOfCode rules but I have started a 100-days-of-code python course on Udemy which has a project per day to complete.
 
 **Link to work:**
+https://github.com/MikeTech93/Python/tree/master/100-days-of-code/001-band-name-generator
+
+example.py contains some exercises that I performed throughout
+
+main.py contains the basic band name generator 
 
 ## Contents
 * [README](README.md)
