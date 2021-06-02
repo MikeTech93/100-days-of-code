@@ -15,9 +15,24 @@ I understand that following tutorials is not 100% following the #100DaysOfCode r
 **Link to work:**
 https://github.com/MikeTech93/Python/tree/master/100-days-of-code/001-band-name-generator
 
-example.py contains some exercises that I performed throughout
+example.py contains some coding exercises that I performed
 
 main.py contains the basic band name generator 
+
+### R1D2 - 02nd June 2021, Wednesday
+
+**Today's Progress:**
+Completed day 2 of 100-days-of-code Python Pro Bootcamp on Udemy and practiced some basic coding features such as working with numbers and string\type manipulation.
+
+**Thoughts:**
+Progressed well, unfortunately I was a day late on this as I started work yesterday but did not get time to upload because I worked late into the evening. I understad this isn't a valid excuse so I'm going to make sure in future that I get this updated on a daily basis.
+
+**Link to work:**
+https://github.com/MikeTech93/Python/tree/master/100-days-of-code/002-tip-calculator
+
+example.py contains some coding exercises that I performed
+
+main.py contains the tip calculator that I created
 
 ## Contents
 * [README](README.md)
